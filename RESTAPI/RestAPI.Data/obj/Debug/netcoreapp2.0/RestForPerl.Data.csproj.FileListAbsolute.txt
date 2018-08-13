@@ -1,0 +1,16 @@
+C:\Git\EnterpriseNOC\Code\OneOff\CIC.RestAPI\RestAPI.Data\bin\Debug\netcoreapp2.0\RestAPI.Data.deps.json
+C:\Git\EnterpriseNOC\Code\OneOff\CIC.RestAPI\RestAPI.Data\bin\Debug\netcoreapp2.0\RestAPI.Data.dll
+C:\Git\EnterpriseNOC\Code\OneOff\CIC.RestAPI\RestAPI.Data\bin\Debug\netcoreapp2.0\RestAPI.Data.pdb
+C:\Git\EnterpriseNOC\Code\OneOff\CIC.RestAPI\RestAPI.Data\obj\Debug\netcoreapp2.0\RestAPI.Data.csproj.CoreCompileInputs.cache
+C:\Git\EnterpriseNOC\Code\OneOff\CIC.RestAPI\RestAPI.Data\obj\Debug\netcoreapp2.0\RestAPI.Data.AssemblyInfoInputs.cache
+C:\Git\EnterpriseNOC\Code\OneOff\CIC.RestAPI\RestAPI.Data\obj\Debug\netcoreapp2.0\RestAPI.Data.AssemblyInfo.cs
+C:\Git\EnterpriseNOC\Code\OneOff\CIC.RestAPI\RestAPI.Data\obj\Debug\netcoreapp2.0\RestAPI.Data.dll
+C:\Git\EnterpriseNOC\Code\OneOff\CIC.RestAPI\RestAPI.Data\obj\Debug\netcoreapp2.0\RestAPI.Data.pdb
+C:\Projects\RestAPI\RestAPI.Data\bin\Debug\netcoreapp2.0\RestAPI.Data.deps.json
+C:\Projects\RestAPI\RestAPI.Data\bin\Debug\netcoreapp2.0\RestAPI.Data.dll
+C:\Projects\RestAPI\RestAPI.Data\bin\Debug\netcoreapp2.0\RestAPI.Data.pdb
+C:\Projects\RestAPI\RestAPI.Data\obj\Debug\netcoreapp2.0\RestAPI.Data.csproj.CoreCompileInputs.cache
+C:\Projects\RestAPI\RestAPI.Data\obj\Debug\netcoreapp2.0\RestAPI.Data.AssemblyInfoInputs.cache
+C:\Projects\RestAPI\RestAPI.Data\obj\Debug\netcoreapp2.0\RestAPI.Data.AssemblyInfo.cs
+C:\Projects\RestAPI\RestAPI.Data\obj\Debug\netcoreapp2.0\RestAPI.Data.dll
+C:\Projects\RestAPI\RestAPI.Data\obj\Debug\netcoreapp2.0\RestAPI.Data.pdb

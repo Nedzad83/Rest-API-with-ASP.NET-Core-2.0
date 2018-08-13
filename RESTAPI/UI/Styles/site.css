@@ -1,0 +1,25 @@
+table head tr th {
+    background-color:#474747 ; 
+    text-align: center;
+    font-size: 2px;
+    color: white;
+}
+
+table thead tr th {
+    background-color: #474747;
+    color: white;
+    font-size: 11.0pt;
+    font-weight: bold;
+    font-family: Calibri, Candara, Segoe, "Segoe UI", Optima, Arial, sans-serif;
+}
+/* 
+.header
+.headerSortUp
+.headerSortDown
+.expand-child
+.asc */
+
+/* background-color: #474747;
+color: white;
+font-size: 11.0pt;
+font-weight: bold; */
